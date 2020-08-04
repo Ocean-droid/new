@@ -6,8 +6,8 @@ public static void main(String[] args) {   //main method block start
 }  //main method block end
 
 
-public void sayHello()
-}//end of class block
+public void sayHello() {
+}}//end of class block
 //root block vaneko class block ho
 
 

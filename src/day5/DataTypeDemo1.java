@@ -15,8 +15,8 @@ public class DataTypeDemo1 {
 		int i2 = -2147483648; //min range
 		
 		
-		long l1 = 9223372036854775807; //max range
-		long l2 = -9223372036854775808; //min range
+	//	long l1 = 9223372036854775807; //max range
+	//	long l2 = -9223372036854775808; //min range
 	
 		System.out.println(Integer.MAX_VALUE);
 		System.out.println(Integer.MIN_VALUE);
